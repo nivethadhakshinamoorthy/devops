@@ -16,5 +16,3 @@ jobs:
 
       - name: Run a script
         run: echo "🎉 Hello, GitHub Actions is working!"
-        
-Add basic CI workflow steps to blank.yml
